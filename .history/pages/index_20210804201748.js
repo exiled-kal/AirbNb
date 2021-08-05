@@ -7,7 +7,7 @@ export default function Home() {
         <title>AirBNB</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>Lets go AirBNB✈️</h1>
+      <h1>Lts go ✈️</h1>
     </div>
   );
 }
