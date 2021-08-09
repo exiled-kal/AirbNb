@@ -3,7 +3,8 @@ Dependencies:
 1.NextJS
 2.TailwindCSS N Tailwind scrollbar hide
 3.HeroIcons
-4.rect-date-range
+4.react-date-range
+5.badrap
 
 
 
