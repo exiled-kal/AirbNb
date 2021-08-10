@@ -5,7 +5,8 @@ Dependencies:
 3.HeroIcons
 4.react-date-range
 5.badrap
-
+6.react-map-gl
+7.geolib
 
 
 
